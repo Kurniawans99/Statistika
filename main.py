@@ -16,5 +16,3 @@ def main(userInputData):
     return a
     
 
-if __name__ == "__main__":
-    main()
