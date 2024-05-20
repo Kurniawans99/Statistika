@@ -1,8 +1,6 @@
 import streamlit as st
 import main
 
-
-data = []
 st.title('Statistika')
 
 with st.form(key='data_form'):
